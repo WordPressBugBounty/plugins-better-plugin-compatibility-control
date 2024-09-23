@@ -1,0 +1,1 @@
+# plugins-better-plugin-compatibility-control
